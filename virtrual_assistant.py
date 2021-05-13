@@ -1,9 +1,14 @@
+# conda install pyaudio
+# conda install SpeechRecognition
+# conda install gTTS
+# conda install wikipedia
+
 import speech_recognition as sr
 import os
 from gtts import gTTS
 import datetime
 import warnings
-import calender
+import calendar
 import random
 import wikipedia
 
